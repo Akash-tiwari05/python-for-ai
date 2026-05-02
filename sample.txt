@@ -1,0 +1,17 @@
+Welcome to Python File Handling practice.
+
+    This file contains multiple lines.
+    You can use it to test read(), readline(), and readlines().
+
+    Topics to practice:
+    1. Opening a file
+    2. Reading content
+    3. Writing new content
+    4. Appending data
+    5. File pointer (seek, tell)
+
+    Keep practicing daily.
+    Python is powerful!
+
+    End of file.
+            
